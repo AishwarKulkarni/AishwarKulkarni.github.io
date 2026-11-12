@@ -68,7 +68,7 @@ class PortfolioData {
       ],
       accent: Color(0xFF3B82F6),
       icon: Icons.apartment_rounded,
-      url: 'https://github.com/AishwarKulkarni',
+      url: 'https://github.com/AishwarKulkarni/Sevaku_App',
     ),
     ProjectModel(
       title: 'WallOne - Financial AI Advisory',
@@ -79,7 +79,7 @@ class PortfolioData {
       metrics: ['Expense Tracking', 'Investment Monitoring', 'Budget Insights'],
       accent: Color(0xFFF59E0B),
       icon: Icons.account_balance_wallet_rounded,
-      url: 'https://github.com/AishwarKulkarni',
+      url: 'https://github.com/AishwarKulkarni/WallOne',
     ),
     ProjectModel(
       title: 'Beat Bazaar',
@@ -90,7 +90,7 @@ class PortfolioData {
       metrics: ['Song Recognition', 'Live Playback', 'Listening History'],
       accent: Color(0xFF10B981),
       icon: Icons.graphic_eq_rounded,
-      url: 'https://github.com/AishwarKulkarni',
+      url: 'https://github.com/AishwarKulkarni/Beat-Bazaar-ACR-Cloud-API',
     ),
   ];
 
@@ -116,7 +116,7 @@ class PortfolioData {
     SocialLink(
       name: 'YouTube',
       handle: '@kasito',
-      url: 'https://www.youtube.com/@kasito',
+      url: 'https://www.youtube.com/@kasiTo1320',
       icon: Icons.play_circle_outline_rounded,
     ),
     SocialLink(
@@ -127,8 +127,8 @@ class PortfolioData {
     ),
     SocialLink(
       name: 'Phone',
-      handle: '+91 76235 57555',
-      url: '+91 76235 57555',
+      handle: '+91 76239 57959',
+      url: '+91 76239 57959',
       icon: Icons.phone_outlined,
     ),
   ];
